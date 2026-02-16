@@ -5,6 +5,14 @@
   border-radius: 8px;
 }
 
+.gs-section-01 h3 {
+  color: red;
+}
+
+.gs-section-01 p {
+  font-size: 18px;
+}
+
 .gs-section-02 {
   background-color: #eef2ff;
   padding: 2rem;
@@ -12,9 +20,25 @@
   border-radius: 8px;
 }
 
+.gs-section-02 h3 {
+  color: blue;
+}
+
+.gs-section-02 p {
+  font-size: 20px;
+}
+
 .gs-section-03 {
   background-color: #f1f5f9;
   padding: 2rem;
   margin-bottom: 2rem;
   border-radius: 8px;
+}
+
+.gs-section-03 h3 {
+  color: green;
+}
+
+.gs-section-03 p {
+  font-size: 16px;
 }
